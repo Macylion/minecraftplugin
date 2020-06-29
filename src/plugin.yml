@@ -1,0 +1,9 @@
+name: MinecraftRPG
+version: 1.0
+main: pl.macylion.rpgplugin.Main
+authors: [Macylion]
+description: a rpg plugin
+commands:
+  points:
+    description: Check your points.
+    usage: /points <command>	
